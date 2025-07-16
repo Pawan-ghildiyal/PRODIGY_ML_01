@@ -1,2 +1,9 @@
-# PRODIGY_ML_01
-Implemented a Linear Regression model to predict house prices based on features like square footage, bedrooms, and bathrooms. Used Python, Pandas, NumPy, and Scikit‑Learn for data preprocessing, model training, and evaluation as part of my Machine Learning internship at Prodigy InfoTech.
+# PROGIDY_ML_01 – Linear Regression for House Price Prediction
+
+**Task:** Implement a Linear Regression model to predict house prices based on square footage, bedrooms, and bathrooms.
+
+**Tech Stack:** Python, Pandas, Numpy, Scikit-learn, Matplotlib
+
+**Dataset:** [House Prices Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+
+**Status:** In Progress ✅
