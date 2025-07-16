@@ -18,9 +18,8 @@ The task was to **build a regression model to predict house prices** based on av
 ### 📈 Visualization
 Blue = Actual Prices  
 Red = Predicted Prices  
-
-*(Add screenshot here)*  
-![Graph](screenshots/actual_vs_predicted.png)
+ 
+![Graph]("C:\Users\pawan\OneDrive\Pictures\Screenshots\actual vs predicted.png")
 
 ## 🛠️ Tech Stack
 - Python 🐍
