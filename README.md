@@ -19,7 +19,7 @@ The task was to **build a regression model to predict house prices** based on av
 Blue = Actual Prices  
 Red = Predicted Prices  
  
-![Graph]("C:\Users\pawan\OneDrive\Pictures\Screenshots\actual vs predicted.png")
+![Graph](screenshots/actual_vs_predicted.png)
 
 ## 🛠️ Tech Stack
 - Python 🐍
