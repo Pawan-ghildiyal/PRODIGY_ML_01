@@ -16,8 +16,8 @@ The task was to **build a regression model to predict house prices** based on av
 ---
 
 ## 📊 Results
-- **R² Score:** `0.63` <!-- replace with your actual -->
-- **RMSE:** `52975.71` <!-- replace with your actual -->
+- **R² Score:** `0.6341` 
+- **RMSE:** `52975.7177` 
 
 ---
 
@@ -46,5 +46,6 @@ Here’s a screenshot of the terminal run:
 ## 🚀 How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/Pawan-ghildiyal/PRODIGY_ML_01.git
-   cd PRODIGY_ML_01
+   pip install -r requirements.txt
+   python task01.py
+
