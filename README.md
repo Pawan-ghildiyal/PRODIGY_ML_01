@@ -15,7 +15,7 @@ The task was to **build a regression model to predict house prices** based on av
 - **R² Score:** `0.6341189942328371`
 - **RMSE:** `52975.71771338122`
 
-![image](screenshots/terminal.png)
+![Terminal](screenshots/terminal.png)
 
 ### 📈 Visualization
 Blue = Actual Prices  
