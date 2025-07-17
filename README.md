@@ -4,30 +4,44 @@
 This project is part of my internship with **Prodigy Infotech (Machine Learning Domain)**.  
 The task was to **build a regression model to predict house prices** based on available features and evaluate its performance.
 
+---
+
 ## ✨ Features
 ✅ Performed **data loading & exploration** using Pandas  
 ✅ Selected important numerical features (e.g., `GrLivArea`, `OverallQual`, `GarageArea`, etc.)  
 ✅ Built a **Linear Regression model** using scikit-learn  
-✅ Visualized **Actual vs Predicted prices** on a graph with different colors for better clarity  
+✅ Visualized **Actual vs Predicted prices** on a graph  
 ✅ Calculated **R² Score** and **RMSE** to evaluate performance
 
-## 📊 Results
-- **R² Score:** `0.6341189942328371`
-- **RMSE:** `52975.71771338122`
+---
 
+## 📊 Results
+- **R² Score:** `0.63` <!-- replace with your actual -->
+- **RMSE:** `52975.71` <!-- replace with your actual -->
+
+---
+
+## 📈 Visualization
+**Blue = Actual Prices**  
+**Red = Predicted Prices**
+
+![Graph](screenshots/actual_vs_predicted.png)
+
+---
+
+## 💻 Terminal Run
+Here’s a screenshot of the terminal run:  
 ![Terminal](screenshots/terminal.png)
 
-### 📈 Visualization
-Blue = Actual Prices  
-Red = Predicted Prices  
- 
-![Graph](screenshots/actual_vs_predicted.png)
+---
 
 ## 🛠️ Tech Stack
 - Python 🐍
 - Pandas, NumPy
 - Scikit-Learn
 - Matplotlib
+
+---
 
 ## 🚀 How to Run
 1. Clone this repo:
