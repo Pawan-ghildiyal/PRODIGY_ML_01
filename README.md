@@ -46,6 +46,12 @@ Here’s a screenshot of the terminal run:
 ## 🚀 How to Run
 1. Clone this repo:
    ```bash
+   ## 🚀 How to Run
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Pawan-ghildiyal/PRODIGY_ML_01.git
+   cd PRODIGY_ML_01
    pip install -r requirements.txt
    python task01.py
 
